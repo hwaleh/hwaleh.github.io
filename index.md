@@ -41,9 +41,9 @@ Here is yet another list with the steps to obtaining my degree as the Boy Scouts
   
 Lastly, here is a picture of me coding near the deadline for a project.
 
-![typing image](https://hwaleh.github.com/typing.jpg)
+![typing image](typing.jpg)
 
 
 Further info [about me](README.md)
 
-[to top](#About-Me)
+[to top](#about-Me)
