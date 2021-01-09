@@ -46,4 +46,4 @@ Lastly, here is a picture of me coding near the deadline for a project.
 
 Further info [about me](README.md)
 
-[to top](https://github.com/hwaleh/hwaleh.github.io/blob/main/index.md#about-me)
+[to top](#About-Me)
