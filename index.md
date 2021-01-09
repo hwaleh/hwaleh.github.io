@@ -39,7 +39,7 @@ Here is yet another list with the steps to obtaining my degree as the Boy Scouts
 - [x] Done that
 - [ ] Got the patch
   
-Lastly, here is a picture of me coding near the deadline for a project.
+Lastly, here is a picture of me coding near the deadline for a project (not my picture, taken from google images).
 
 ![typing image](typing.jpg)
 
