@@ -5,7 +5,7 @@ My name is **Haaris Waleh**. I am a 3rd year Computer Science Major at *UCSD*.
 
 ## My Goals
 
-As a ~~wise~~ progrqammer once said:
+As a ~~wise~~ programmer once said:
 > It's not a bug, it's a feature
 
 Though we may wish we could just `make clean` our mistakes to undo them, debugging is almost never that easy. However, as detailed in [this video](https://www.youtube.com/watch?v=dQw4w9WgXcQ), that deosn't make fixing errors less important. It is my goal to fix any mistakes I make and not to make a mistake more than once.
@@ -46,4 +46,4 @@ Lastly, here is a picture of me coding near the deadline for a project.
 
 Further info [about me](README.md)
 
-[to top](https://github.com/hwaleh/hwaleh.github.io/blob/main/index.md#heading)
+[to top](https://github.com/hwaleh/hwaleh.github.io/blob/main/index.md#about-me)
