@@ -46,4 +46,4 @@ Lastly, here is a picture of me coding near the deadline for a project (not my p
 
 Further info [about me](README.md)
 
-[to top](#about-Me)
+[to top](#about-me)
