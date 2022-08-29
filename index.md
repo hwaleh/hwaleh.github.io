@@ -15,6 +15,6 @@ Email: haariswaleh@gmail.com <br>
 LinkedIn: [My Profile](https://www.linkedin.com/in/haaris-waleh/) <br>
 
 # Resume
-<a href="./haaris_waleh_resume.pdf" download>Click here to download my resume.</a>
+<a href="/haaris_waleh_resume.pdf" download>Click here to download my resume.</a>
 
 [to top](#about-me)
