@@ -1,6 +1,6 @@
 # About Me
 
-My name is **Haaris Waleh**. I am a 3rd year Computer Science Major at *UCSD*. 
+Hi, my name is Haaris Waleh. I am a Computer Scientist, and I recently graduated from UCSD. I am particularly interested in Machine Learning (ML), but I am also fascinated by Cybersecurity, Data Science, and Mathematics. I hope to use my skills and knowledge to make technology and innovations that can benefit others.
 
 
 ## My Goals
