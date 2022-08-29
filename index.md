@@ -1,49 +1,20 @@
 # About Me
 
-Hi, my name is Haaris Waleh. I am a Computer Scientist, and I recently graduated from UCSD. I am particularly interested in Machine Learning (ML), but I am also fascinated by Cybersecurity, Data Science, and Mathematics. I hope to use my skills and knowledge to make technology and innovations that can benefit others.
+Hi, my name is Haaris Waleh. I am a Computer Scientist, and I recently graduated from UCSD. I am particularly interested in Machine Learning (ML) and Artificial Intelligence (AI), but I am also fascinated by Cybersecurity, Data Science, and Mathematics. I hope to use my skills and knowledge to make technology and innovations that can benefit others.
+
+<br>
+
+# Under Construction! 
+This page is currently under construction. Please look forward to a new and improved version of this page soon! For now, feel free to contact me [below](#contact-information). Thank you for visiting!
 
 
-## My Goals
+<br>
 
-As a ~~wise~~ programmer once said:
-> It's not a bug, it's a feature
+# Contact Information: 
+Email: haariswaleh@gmail.com <br>
+LinkedIn: [My Profile](https://www.linkedin.com/in/haaris-waleh/) <br>
 
-Though we may wish we could just `make clean` our mistakes to undo them, debugging is almost never that easy. However, as detailed in [this video](https://www.youtube.com/watch?v=dQw4w9WgXcQ), that deosn't make fixing errors less important. It is my goal to fix any mistakes I make and not to make a mistake more than once.
-
-Here are the general steps in debugging code:
-1. Recognize the existence of a bug
-2. Isolate the source
-3. Identify the cause
-4. Find a fix
-5. Apply the fix and test 
-
-Here is a list of famous programmers/ tech experts who I aspire to be like:
-- Steve Jobs
-- Bill Gates
-- Linus Torvalds
-
-Here is a list of topics in Artificial Intelligence, which is one of my areas of interest:
-
-- Machine learning
-    - Supervised and Unsupervised Machine Learning Algorithms
-    - Reinforcement Machine learning algorithms
-    - Deep learning
-- Robotics
-- Natural language processing
-    - Speech recognition/ translation
-    - Natural language generation
-- And many more!
-  
-Here is yet another list with the steps to obtaining my degree as the Boy Scouts of America might list them:
-- [x] Been there
-- [x] Done that
-- [ ] Got the patch
-  
-Lastly, here is a picture of me coding near the deadline for a project (not my picture, taken from google images).
-
-![typing image](typing.jpg)
-
-
-Further info [about me](README.md)
+# Resume
+<a href="/haaris_waleh_resume" download>Click here to download my resume.</a>
 
 [to top](#about-me)
