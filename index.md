@@ -1,10 +1,10 @@
-# About Me
+# <u>About Me</u>
 
 Hi, my name is Haaris Waleh. I am a Computer Scientist, and I recently graduated from UCSD. I am particularly interested in Machine Learning (ML) and Artificial Intelligence (AI), but I am also fascinated by Cybersecurity, Data Science, and Mathematics. I hope to use my skills and knowledge to make technology and innovations that can benefit others.
 
 <br>
 
-# Projects
+# <u>Projects</u>
 Here are some of my recent projects. Please visit [my GitHub](https://github.com/hwaleh) for more.
 
 ## <u> Article Classifier: </u>
@@ -37,14 +37,14 @@ Performed optimization of digit classification models on the MNIST dataset. Some
 
 <br>
 
-# Contact Information 
+# <u>Contact Information</u>
 Email: haariswaleh@gmail.com <br>
 LinkedIn: https://www.linkedin.com/in/haaris-waleh/ <br>
 GitHub: https://github.com/hwaleh
 
 <br>
 
-# Resume
+# <u>Resume</u>
 <a href="/haaris_waleh_resume_ml.pdf" download>Click here to download my resume.</a>
 
 <br>
