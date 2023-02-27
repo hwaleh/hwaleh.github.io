@@ -21,7 +21,7 @@ Python script that uses non-negative matrix factorization (NMF) to generate a to
 Python, PyTorch, U-Net, torchvision, Git
 
 <b>About:</b> 
-U-Net pipeline for model that performs binary image segmentation on portraits of people. <p></p>
+U-Net pipeline for model that performs binary image segmentation on portraits of people.
 
 Note: This project was performed as part of a group project for the Association for Computing Machinery (ACM) club at UCSD.
 
