@@ -4,17 +4,49 @@ Hi, my name is Haaris Waleh. I am a Computer Scientist, and I recently graduated
 
 <br>
 
-# Under Construction! 
-This page is currently under construction. Please look forward to a new and improved version of this page soon! For now, feel free to contact me [below](#contact-information). Thank you for visiting!
+# Projects
+Here are some of my recent projects. Please visit [my GitHub](https://github.com/hwaleh) for more.
+
+## <u> Article Classifier: </u>
+<b>Skills:</b> 
+Python, sklearn, nltk, unsupervised learning, topic modeling, NLP, Pandas
+
+<b>About:</b> 
+Python script that uses non-negative matrix factorization (NMF) to generate a topic modeler on a dataset of BBC articles to determine the main topic of each article in the dataset. This model can make predictions on user input files as well.
+
+<br>
+
+## <u>Binary Image Segmenter:</u>
+<b>Skills:</b>
+Python, PyTorch, U-Net, torchvision, Git
+
+<b>About:</b> 
+U-Net pipeline for model that performs binary image segmentation on portraits of people. <p></p>
+
+Note: This project was performed as part of a group project for the Association for Computing Machinery (ACM) club at UCSD.
+
+<br>
+
+## <u>Digit Classification Optimization:</u>
+<b>Skills:</b>
+Python, Pytorch, TensorFlow, CNN, MLP, logistic regression
+
+<b>About:</b>
+Performed optimization of digit classification models on the MNIST dataset. Some models achieved 95%+ accuracy and saw training time reduced by up to 50%.
 
 
 <br>
 
-# Contact Information: 
+# Contact Information 
 Email: haariswaleh@gmail.com <br>
-LinkedIn: [My Profile](https://www.linkedin.com/in/haaris-waleh/) <br>
+LinkedIn: https://www.linkedin.com/in/haaris-waleh/ <br>
+GitHub: https://github.com/hwaleh
+
+<br>
 
 # Resume
-<a href="/haaris_waleh_resume.pdf" download>Click here to download my resume.</a>
+<a href="/haaris_waleh_resume_ml.pdf" download>Click here to download my resume.</a>
+
+<br>
 
 [to top](#about-me)
