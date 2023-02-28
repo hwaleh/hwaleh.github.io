@@ -10,16 +10,17 @@ Here is a quick overview of some of my work experience. Refer to my resume for a
 <u>Machine Learning Intern-</u>
 <i> Bourbaki Group</i> <br>
 
-<li>Collaborated with a team of interns to develop a machine learning tool that predicts the output of organic chemical equations based on visual inputs. 
+<li>Collaborated with a team of interns to develop a machine learning tool that predicts the output of organic chemical equations based on visual inputs.</li>
 
-<li>This tool was able to accurately recognize organic chemical structures whether they were hand drawn or computer generated. 
+<li>This tool was able to accurately recognize organic chemical structures whether they were hand drawn or computer generated. </li>
 <br><br>
 
 <u>Software Develoment Engineer-</u> 
 <i> Creatorsoft</i> <br>
 
-<li>Built an enterprise level application for automating accounting. 
-<li>Wrote middle tier code and performed testing of various components.
+<li>Built an enterprise scale application for automating accounting. </li>
+
+<li>Wrote middle tier code and performed testing of various components.</li>
 <br><br>
 
 
