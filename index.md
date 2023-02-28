@@ -2,7 +2,7 @@
 
 Hi, my name is Haaris Waleh. I am a Computer Scientist, and a recent graduate from UCSD. I am particularly interested in Machine Learning and Artificial Intelligence, but I am also fascinated by Cybersecurity, Data Science, and Mathematics. I hope to use my skills and knowledge to make technology and innovations that can benefit others.
 
-<br>
+<br><br>
 
 # <u>Experience</u>
 Here is a quick overview of some of my work experience. Refer to my resume for additional details. <br><br>
@@ -20,12 +20,8 @@ Here is a quick overview of some of my work experience. Refer to my resume for a
 
 <li>Built an enterprise level application for automating accounting. 
 <li>Wrote middle tier code and performed testing of various components.
+<br><br>
 
-
-
-# 
-
-<br>
 
 # <u>Projects</u>
 Here are some of my recent projects. Please visit [my GitHub](https://github.com/hwaleh) for more.
@@ -58,14 +54,14 @@ Python, Pytorch, TensorFlow, CNN, MLP, logistic regression
 Performed optimization of digit classification models on the MNIST dataset. Some models achieved 95%+ accuracy and saw training time reduced by up to 50%.
 
 
-<br>
+<br><br>
 
 # <u>Contact Information</u>
 Email: haariswaleh@gmail.com <br>
 LinkedIn: https://www.linkedin.com/in/haaris-waleh/ <br>
 GitHub: https://github.com/hwaleh
 
-<br>
+<br><br>
 
 # <u>Resume</u>
 <a href="/haaris_waleh_resume_ml.pdf" download>Click here to download my resume.</a>
