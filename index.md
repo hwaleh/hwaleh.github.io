@@ -1,6 +1,29 @@
 # <u>About Me</u>
 
-Hi, my name is Haaris Waleh. I am a Computer Scientist, and I recently graduated from UCSD. I am particularly interested in Machine Learning (ML) and Artificial Intelligence (AI), but I am also fascinated by Cybersecurity, Data Science, and Mathematics. I hope to use my skills and knowledge to make technology and innovations that can benefit others.
+Hi, my name is Haaris Waleh. I am a Computer Scientist, and a recent graduate from UCSD. I am particularly interested in Machine Learning and Artificial Intelligence, but I am also fascinated by Cybersecurity, Data Science, and Mathematics. I hope to use my skills and knowledge to make technology and innovations that can benefit others.
+
+<br>
+
+# <u>Experience</u>
+Here is a quick overview of some of my work experience. Refer to my resume for additional details. <br><br>
+
+<u>Machine Learning Intern-</u>
+<i> Bourbaki Group</i> <br>
+
+<li>Collaborated with a team of interns to develop a machine learning tool that predicts the output of organic chemical equations based on visual inputs. 
+
+<li>This tool was able to accurately recognize organic chemical structures whether they were hand drawn or computer generated. 
+<br><br>
+
+<u>Software Develoment Engineer-</u> 
+<i> Creatorsoft</i> <br>
+
+<li>Built an enterprise level application for automating accounting. 
+<li>Wrote middle tier code and performed testing of various components.
+
+
+
+# 
 
 <br>
 
