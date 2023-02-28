@@ -27,7 +27,7 @@ Here is a quick overview of some of my work experience. Refer to my resume for a
 # <u>Projects</u>
 Here are some of my recent projects. Please visit [my GitHub](https://github.com/hwaleh) for more.
 
-## <u> Article Classifier: </u>
+ <u> Article Classifier:</u> <br>
 <b>Skills:</b> 
 Python, sklearn, nltk, unsupervised learning, topic modeling, NLP, Pandas
 
@@ -36,18 +36,18 @@ Python script that uses non-negative matrix factorization (NMF) to generate a to
 
 <br>
 
-## <u>Binary Image Segmenter:</u>
+<u>Binary Image Segmenter:</u> <br>
 <b>Skills:</b>
 Python, PyTorch, U-Net, torchvision, Git
 
 <b>About:</b> 
 U-Net pipeline for model that performs binary image segmentation on portraits of people.
 
-Note: This project was performed as part of a group project for the Association for Computing Machinery (ACM) club at UCSD.
+Note: This project was conducted as part of a group project for the Association for Computing Machinery (ACM) club at UCSD.
 
 <br>
 
-## <u>Digit Classification Optimization:</u>
+<u>Digit Classification Optimization:</u> <br>
 <b>Skills:</b>
 Python, Pytorch, TensorFlow, CNN, MLP, logistic regression
 
