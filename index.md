@@ -1,11 +1,22 @@
 # <u>About Me</u>
 
-Hi, my name is Haaris Waleh. I am a Computer Scientist, and a recent graduate from UCSD. I am particularly interested in Machine Learning and Artificial Intelligence, but I am also fascinated by Cybersecurity, Data Science, and Mathematics. I hope to use my skills and knowledge to make technology and innovations that can benefit others.
+Hi, my name is Haaris Waleh. I am a Computer Scientist, and recent graduate from UCSD. I specialize in Machine Learning and Artificial Intelligence, but I am also fascinated by Cybersecurity, Data Science, and Mathematics. I hope to use my skills and knowledge to make technology and innovations that can benefit others.
 
 <br><br>
 
 # <u>Experience</u>
-Here is a quick overview of some of my work experience. Refer to my resume for additional details. <br><br>
+Here is a quick overview of some of my work experience. Refer to my resume or LinkedIn for additional details. <br><br>
+
+<u>Data Scientist, Business Analytics-</u>
+<i> Freelance</i> <br>
+
+<li>Collected data from various web sources and processed for use. 
+</li>
+
+<li>Performed demand forecasting using a variety of time series analysis methods including ARIMA and lstm models.</li>
+
+<li>Created reports and met with executives to discuss results and plans. </li>
+<br><br>
 
 <u>Machine Learning Intern-</u>
 <i> Bourbaki Group</i> <br>
@@ -15,7 +26,7 @@ Here is a quick overview of some of my work experience. Refer to my resume for a
 <li>This tool was able to accurately recognize organic chemical structures whether they were hand drawn or computer generated. </li>
 <br><br>
 
-<u>Software Develoment Engineer-</u> 
+<u>Software Develoment Intern-</u> 
 <i> Creatorsoft</i> <br>
 
 <li>Built an enterprise scale application for automating accounting. </li>
@@ -27,6 +38,15 @@ Here is a quick overview of some of my work experience. Refer to my resume for a
 # <u>Projects</u>
 Here are some of my recent projects. Please visit [my GitHub](https://github.com/hwaleh) for more.
 
+ <u> Real Time Text to Speech Translation App:</u> <br>
+<b>Skills:</b> 
+Python, React Native, transformers, LLM, deep learning, transfer learning, fine tuning
+
+<b>About:</b> 
+Simultaneously developing an Android and iOS app in React for real time text to speech translation. Translation will support multiple languages. App will be deployed, maintained, and updated as needed.
+
+<br>
+ 
  <u> Article Classifier:</u> <br>
 <b>Skills:</b> 
 Python, sklearn, nltk, unsupervised learning, topic modeling, NLP, Pandas
@@ -41,7 +61,7 @@ Python script that uses non-negative matrix factorization (NMF) to generate a to
 Python, PyTorch, U-Net, torchvision, Git
 
 <b>About:</b> 
-U-Net pipeline for model that performs binary image segmentation on portraits of people.
+U-Net pipeline for model that performs binary image segmentation on portraits of people. As team lead, I also created guides for my peers and set project goals. End result was presented to peers and faculty.
 
 Note: This project was conducted as part of a group project for the Association for Computing Machinery (ACM) club at UCSD.
 
@@ -65,7 +85,7 @@ GitHub: https://github.com/hwaleh
 <br><br>
 
 # <u>Resume</u>
-<a href="/haaris_waleh_resume_ml.pdf" download>Click here to download my resume.</a>
+<a href="/haaris_waleh_resume.pdf" download>Click here to download my resume.</a>
 
 <br>
 
