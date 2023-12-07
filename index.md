@@ -1,6 +1,5 @@
 <div class="header">
-  <h1>Header</h1>
-  <p>Haaris Waleh Developer Page</p>
+  <h1>Haaris Waleh Developer Page</h1>
 </div>
 
 # <u>Introduction</u>
