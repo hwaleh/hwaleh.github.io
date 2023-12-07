@@ -1,3 +1,8 @@
+<div class="header">
+  <h1>Header</h1>
+  <p>Haaris Waleh Developer Page</p>
+</div>
+
 # <u>Introduction</u>
 
 Hi, my name is Haaris Waleh. I am a Computer Scientist and recent graduate from UCSD. I specialize in Machine Learning and Artificial Intelligence, but I am also fascinated by Data Science, Physics, and Mathematics. I hope to use my skills and knowledge to make technology and innovations that can benefit others.
