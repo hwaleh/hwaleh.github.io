@@ -1,6 +1,6 @@
 # <u>About Me</u>
 
-Hi, my name is Haaris Waleh. I am a Computer Scientist, and recent graduate from UCSD. I specialize in Machine Learning and Artificial Intelligence, but I am also fascinated by Cybersecurity, Data Science, and Mathematics. I hope to use my skills and knowledge to make technology and innovations that can benefit others.
+Hi, my name is Haaris Waleh. I am a Computer Scientist, and recent graduate from UCSD. I specialize in Machine Learning and Artificial Intelligence, but I am also fascinated by Data Science, Physics, and Mathematics. I hope to use my skills and knowledge to make technology and innovations that can benefit others.
 
 <br><br>
 
@@ -15,13 +15,17 @@ Here is a quick overview of some of my work experience. Refer to my resume or Li
 
 <li>Performed demand forecasting using a variety of time series analysis methods including ARIMA and lstm models.</li>
 
+<li>Performed ensemble learning for prediction using different data sets.</li>
+
 <li>Created reports and met with executives to discuss results and plans. </li>
 <br><br>
 
 <u>Machine Learning Intern-</u>
 <i> Bourbaki Group</i> <br>
 
-<li>Collaborated with a team of interns to develop a machine learning tool that predicts the output of organic chemical equations based on visual inputs.</li>
+<li>Collaborated with a team of interns to develop a machine learning tool that predicts the output of organic chemical equations based on line diagram inputs.</li>
+
+<li>Researched state of the art models and performed transfer learning with these models to allow the tool to work with hand drawn and computer generated inputs.</li>
 
 <li>This tool was able to accurately recognize organic chemical structures whether they were hand drawn or computer generated. </li>
 <br><br>
@@ -72,7 +76,7 @@ Note: This project was conducted as part of a group project for the Association 
 Python, Pytorch, TensorFlow, CNN, MLP, logistic regression
 
 <b>About:</b>
-Performed optimization of digit classification models on the MNIST dataset. Some models achieved 95%+ accuracy and saw training time reduced by up to 50%.
+Performed optimization of digit classification models on the MNIST dataset. This included writing logistic regression, MLP, and CNN models from scratch. Some models achieved 95%+ accuracy and saw training time reduced by up to 50% compared to baseline.
 
 
 <br><br>
